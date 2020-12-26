@@ -1,0 +1,13 @@
+{
+  "name": "xampsom",
+  "version": "1.0.0",
+  "description": "Play the xampsom audio wherever you are",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "author": {"name": "Claudio Junior", "email": "claudio.junior14@hotmail.com"}
+}
